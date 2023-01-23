@@ -43,7 +43,7 @@ public class OperacionesChat {
 				System.out.println("No se ha podido crear la tabla chat");
 			}
 		} catch (SQLException e) {
-			// TODO Auto-generated catch block
+			
 			e.printStackTrace();
 		} finally {
 			try {
